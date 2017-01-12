@@ -1,12 +1,12 @@
-# _{My first website}_
+# _My first website_
 
-#### _{my first website project at epicodus}, {January 11th 2017}_
+#### _my first website project at epicodus, January 11th 2017_
 
-#### By _**{Julian Flood, Kai de Rochemont}**_
+#### By _**Julian Flood, Kai de Rochemont**_
 
 ## Description
 
-_{This is a website that I constructed at Epicodus to showcase my progression. It has very general information and is my first website. }_
+_This is a website that I constructed at Epicodus to showcase my progression. It has very general information and is my first website. _
 
 ## Setup/Installation Requirements
 
